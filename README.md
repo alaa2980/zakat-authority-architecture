@@ -71,7 +71,7 @@ The system enforces strict operational workflows designed to maximize security a
 ### Architecture & System Design
 | Entity-Relationship Diagram | System Sequence Flows |
 | :---: | :---: |
-| <img src="./docs/images/ER_Diagram.jpg" width="400" alt="ER Diagram"> | <img src="./docs/images/image5.jpg" width="400" alt="Sequence Diagram"> |
+| <img src="./docs/images/ER_Diagram.png" width="400" alt="ER Diagram"> | <img src="./docs/images/image5.png" width="400" alt="Sequence Diagram"> |
 
 ### Client Interfaces (Flutter)
 | Home Dashboard & Live API Feeds | Calculation Engine & Logic | AI Chatbot Assistance | Official Digital Receipts |
